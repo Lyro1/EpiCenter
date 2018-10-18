@@ -10,5 +10,6 @@ The main informations and features that would be available on this app are:
 - Student informations (such as notes, work)
 - News from the EPITA's newsfeed
 - Map of the school (Kremlin-Bicêtre and Villejuif)
+- Records of tests or classes notes
 
 The developement of EpiCenter is open to anyone who wants to improve the project or add a feature. A link to our ToDo list will be published soon.
